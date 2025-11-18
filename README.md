@@ -3,7 +3,7 @@
 
 ## 🌐 Live Demo
 
-[View Live Portfolio](https://portfolio-joshuadeguzman.vercel.app/)
+[View Live Portfolio](https://portfolio-deguzmanjoshua.vercel.app/)
 
 ---
 
